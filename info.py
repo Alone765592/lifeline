@@ -68,7 +68,7 @@ IS_TUTORIAL = bool(environ.get('IS_TUTORIAL', True))
 
 #Channel & Group link 
 GRP_LNK = environ.get('GRP_LNK', 'https://t.me/pushpa2av')
-CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/Pushpa_The_Rulehub')
+CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/junsatridvsh')
 OWNER_LNK = environ.get('OWNER_LNK', 'https://t.me/mrboy638')
 
 
